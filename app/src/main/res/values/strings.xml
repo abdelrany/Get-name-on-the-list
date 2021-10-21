@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tp2</string>
+    <string name="ed1">your name </string>
+    <string name="btn">Submit</string>
+    <string name="txtv">Name List</string>
+
+</resources>
